@@ -1,2 +1,2 @@
-# 2.-Website-Login-Register-using-HTML-CSS-Javascript
-Login &amp; register
+#2.-Website-Login-Register-using-HTML-CSS-Javascript
+Login &and; register
